@@ -1,0 +1,9 @@
+.idea/
+
+# Environments
+venv/
+
+chromedriver
+file_for_testing.py
+list_of_tags.csv
+timetesting.py
